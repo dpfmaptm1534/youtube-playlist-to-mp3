@@ -1,3 +1,4 @@
+#pip install pytube
 from pytube import Playlist
 
 p = Playlist('playlist link on your youtube channel or others')
